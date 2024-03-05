@@ -1,0 +1,17 @@
+public class BinarySearchTree{
+    Node root;
+
+    public void insert (Node Node){
+    private Node insertHelper (Node root, Node node){
+    public void display (){
+        private void displayHelper(Node root){
+            public boolean search (int data){
+                private boolean searchHelper(Node root, int data){
+                    public void remove (int data){
+                        private Node removerHelper (Node root, int data){
+                            return null;
+                        }
+                        private int successor (Node root){
+                            private int predecessor (Node root){
+
+
